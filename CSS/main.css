@@ -64,6 +64,7 @@ h1.stack {
     animation-direction: alternate;
     animation-name: delay;
     position: relative;
+    transition: opacity 2s linear;
 }
 
 h1.code {
@@ -73,6 +74,7 @@ h1.code {
     animation-duration: 8s;
     animation-name: delay;
     position: relative;
+    transition: opacity 2s linear;
 }
 
 @keyframes delay {
