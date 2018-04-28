@@ -121,3 +121,40 @@ a.talk {
         opacity: 0, 6;
     }
 }
+
+/*THEME*/
+
+#content {
+    cursor: url(../Img/circle.cur), auto;
+    background: -webkit-gradient(linear, left top, left bottom, from(#4ABCAD), to(#cbccc8)) fixed;
+}
+
+footer {
+    color: white;
+    background: -webkit-linear-gradient(#cbccc8, #4ABCAD);
+}
+
+footer a {
+    color: white;
+}
+
+h1:hover {
+    opacity: 1.0;
+}
+
+.talk:hover {
+    color: black;
+    opacity: 1;
+}
+
+.twitter:hover {
+    color: black;
+}
+
+.github:hover {
+    color: black
+}
+
+.contact:hover {
+    color: black;
+}
