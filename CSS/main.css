@@ -128,12 +128,12 @@ a.talk {
 
 #content {
     cursor: url(../img/circle.cur), auto;
-    background: -webkit-gradient(linear, left top, left bottom, from(#4ABCAD), to(#cbccc8)) fixed;
+    background: -webkit-gradient(linear, left top, left bottom, from(#cbccc8), to(#4ABCAD)) fixed;
 }
 
 footer {
     color: white;
-    background: -webkit-linear-gradient(#cbccc8, #4ABCAD);
+    background: -webkit-linear-gradient( #4ABCAD, #cbccc8);
 }
 
 footer a {
