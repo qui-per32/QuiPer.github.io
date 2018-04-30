@@ -127,7 +127,7 @@ a.talk {
 /*THEME*/
 
 #content {
-    cursor: url(../Img/circle.cur), auto;
+    cursor: url(../img/circle.cur), auto;
     background: -webkit-gradient(linear, left top, left bottom, from(#4ABCAD), to(#cbccc8)) fixed;
 }
 
