@@ -128,16 +128,17 @@ a.talk {
 
 #content {
     cursor: url(../Img/circle.cur), auto;
-    background: -webkit-gradient(linear, left top, left bottom, from(#4ABCAD), to(#cbccc8)) fixed;
+    background: -webkit-gradient(linear, left top, left bottom, from(#cbccc8), to(#4ABCAD)) fixed;
 }
 
 footer {
     color: white;
-    background: -webkit-linear-gradient(#cbccc8, #4ABCAD);
+    background: -webkit-linear-gradient(#4ABCAD,#cbccc8);
 }
 
 footer a {
     color: white;
+    transition: color 2s linear;
 }
 
 h1:hover {
@@ -149,14 +150,18 @@ h1:hover {
     opacity: 1;
 }
 
-.twitter:hover {
+a.twitter:hover {
     color: black;
+    transition: color 2s linear;
+    
 }
 
-.github:hover {
-    color: black
+a.github:hover {
+    color: black;
+    transition: color 2s linear;
 }
 
-.contact:hover {
+a.contact:hover {
     color: black;
+    transition: color 2s linear;
 }
