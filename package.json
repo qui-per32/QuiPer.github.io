@@ -1,0 +1,29 @@
+{
+  "name": "personalwebpage",
+  "version": "1.0.0",
+  "description": "webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server",
+    "Webpage": "git push assigment"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qui-per32/QuiPer.github.io.git"
+  },
+  "keywords": [
+    "my-personal-web-page"
+  ],
+  "author": "qui-per32",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qui-per32/QuiPer.github.io/issues"
+  },
+  "homepage": "https://github.com/qui-per32/QuiPer.github.io#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "normalize-css": "^2.3.1"
+  }
+}
