@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "live-server",
-    "Webpage": "git push assigment"
+    "Webpage": "git push origin master",
+    "Teacher": "pit push assigment"
   },
   "repository": {
     "type": "git",
